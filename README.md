@@ -13,7 +13,7 @@ From caption modal
 `Save` : save the image caption 
 `Cancel` : cancel
 ## How to install 
-Make sure you install nodejs
+Make sure you install nodejs<br>
 `node src\server\app.server.js`<br>
 Go to : localhost:3000
 
