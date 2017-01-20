@@ -12,8 +12,14 @@ From image gallery
 From caption modal
 `Save` : save the image caption 
 `Cancel` : cancel
+## How to install 
+Make sure you install nodejs
+`node src\server\app.server.js`<br>
+Go to : localhost:3000
+
 ## Reference to 
 Web speech API course and tutorial
-## Developer : Hien Nguyen
+## Developer
+Hien Nguyen
 ### License:
 MIT
