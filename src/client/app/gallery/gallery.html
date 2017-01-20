@@ -41,7 +41,8 @@
         </div>
     </div>
 <!--IMAGE GALLERY-->
-    <div class="row bg" data-ng-repeat="image in vm.album.images"
+
+  <div class="row" data-ng-repeat="image in vm.album.images"
         data-ng-if="$index % 5 === 0">
         <div class="col-lg-2 col-lg-offset-1"
              data-ng-if="$index < vm.album.images.length">
