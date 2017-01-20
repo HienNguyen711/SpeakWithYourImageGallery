@@ -15,10 +15,13 @@ From caption modal
 ## How to install 
 Make sure you install nodejs<br>
 `node src\server\app.server.js`<br>
+Open Chrome (or Firefox) (with Firefox check how to use it here : https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)<br>
 Go to : localhost:3000
 
 ## Reference to 
-Web speech API course and tutorial
+Web speech API course and tutorial<br>
+Web speech API : https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API <br>
+
 ## Developer
 Hien Nguyen
 ### License:
