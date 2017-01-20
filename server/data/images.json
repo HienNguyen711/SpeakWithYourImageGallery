@@ -1,0 +1,5 @@
+{"albumName":"Vacation Album",
+ "images":
+ [
+     {"src":"app/images/image1.jpg","caption":"This is image 1"},{"src":"app/images/image2.jpg","caption":"This is image 2"},{"src":"app/images/image3.jpg","caption":"This is image 3"},{"src":"app/images/image4.jpg","caption":"This is image 4"},{"src":"app/images/image5.jpg","caption":"This is image 5"},{"src":"app/images/image6.jpg","caption":"This is image 6"},{"src":"app/images/image7.jpg","caption":"This is image 7"},{"src":"app/images/image8.jpg","caption":"This is image 8"},{"src":"app/images/image9.jpg","caption":"This is image 9"},{"src":"app/images/image10.jpg","caption":"This is image 10"}
+ ]}
