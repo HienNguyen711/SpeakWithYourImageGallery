@@ -1,0 +1,8 @@
+{
+    "name": "WebSpeechApi",
+    "devDependencies": {
+    "express": "^4.13.4",
+    "jsonfile": "^2.2.3",
+    "body-parser": "^1.15.0"
+  }
+}
